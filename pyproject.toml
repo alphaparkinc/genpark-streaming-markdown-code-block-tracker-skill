@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-streaming-markdown-code-block-tracker-skill"
+version = "1.0.0"
+description = "State-machine tracker detecting unclosed code blocks and formatting tags in live streaming LLM output"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
