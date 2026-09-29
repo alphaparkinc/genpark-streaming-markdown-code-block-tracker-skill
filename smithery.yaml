@@ -1,0 +1,6 @@
+name: genpark-streaming-markdown-code-block-tracker-skill
+version: 1.0.0
+description: State-machine tracker detecting unclosed code blocks and formatting tags in live streaming LLM output
+command: python
+args:
+  - mcp_server.py
